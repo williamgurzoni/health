@@ -5,9 +5,9 @@ Aplicativo para Teste de Desenvolvimento
 ## Interface final:
 
 <div>
-  <img src="/samples/FlatList.gif" width="220px" title="FlatList" />
-  <img hspace=20 src="/samples/Filtro.gif" width="220px" title="Filtro"/>
-  <img src="/samples/Filtro2.gif" width="220px" title="Filtro"/> 
+  <img hspace=10 src="/samples/FlatList.gif" width="220px" title="FlatList" />
+  <img hspace=10 src="/samples/Filtro.gif" width="220px" title="Filtro"/>
+  <img hspace=10 src="/samples/Filtro2.gif" width="220px" title="Filtro"/> 
 </div>
 
 ## Passos necessários para desenvolvimento:
